@@ -1,6 +1,6 @@
-# Desafio de Engenharia de Dados – Grupo RZK
+# projeto de engenharia de daods
 
-Este repositório apresenta a solução desenvolvida para o desafio técnico de engenharia de dados, com foco em ingestão, modelagem e análise de dados financeiros da holding RZK, que administra diversas companhias do grupo.
+Este repositório apresenta a solução desenvolvida para o desafio técnico de engenharia de dados, com foco em ingestão, modelagem e análise de dados financeiros de uma holding, que administra diversas companhias do grupo.
 
 ## Estrutura do Projeto
 
@@ -55,9 +55,3 @@ A descrição detalhada das entidades e relacionamentos pode ser consultada no a
 O projeto implementa um pipeline completo de engenharia de dados, partindo da ingestão de dados brutos até a geração de relatórios interativos em Power BI. A solução foi construída com foco na integridade dos dados e na preparação para análises empresariais.
 
 
-## Contato
-
-**Rafael Azevedo**  
-📧 E-mail: azevedorafael.contato@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/rafael-azevedo-40443b162](https://linkedin.com/in/rafael-azevedo-40443b162)  
-📱 WhatsApp: (11) 93847-8675  
