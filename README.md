@@ -1,4 +1,4 @@
-# projeto de engenharia de daods
+# projeto de engenharia de dados
 
 Este repositório apresenta a solução desenvolvida para o desafio técnico de engenharia de dados, com foco em ingestão, modelagem e análise de dados financeiros de uma holding, que administra diversas companhias do grupo.
 
